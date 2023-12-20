@@ -1,0 +1,53 @@
+.list-group a:hover{
+    background-color:#00bf58;
+    color: white;
+    cursor: pointer;
+}
+.container-fluid{
+    background-color: #d1e7dd;
+}
+.but{
+    background-color:green;
+    color: white;
+    cursor: pointer;
+    border-color: #00bf58;
+    border-radius: 10px;
+    border: none;
+}
+.but1{
+    border-radius: 10px;
+    border-color: none;
+    cursor: pointer;
+    border: none;
+}
+.search{
+    position: relative;
+    margin-left: 400px;
+    width: 400px;
+    
+}
+.bell{
+    position: relative;
+    margin-left: 10px;
+}
+#dropdown-basic{
+    width: 200px;
+}
+.dropdownbuttons{
+    justify-content: space-between;
+    text-align: start;
+}
+h4{
+    color:green;
+}
+.nextcancel{
+    border-radius: 10px;
+    border-color: #00bf58;
+    border-width: 0cm;
+}
+#biobox{
+    height: 200px;
+}
+#background{
+    background-color:#d1e7dd; 
+}
